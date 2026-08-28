@@ -39,6 +39,7 @@ updated: 2026-08-28
 | [[sources/2026-08-28-trik-marketing-yang-semua-orang-wajib-tau]] | source | Raymond Chin: marketing funnel, improve service + Whatsapp Business | 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau | 2026-08-28 |
 | [[sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial]] | source | Malaka x Sabda PS: engineering thinking identifikasi problem vs persepsi | 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial | 2026-08-28 |
 | [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] | source | Ferry Irwandi: kuliah publik Trisakti — pertumbuhan ekonomi, GDP, inovasi & produktivitas | 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti | 2026-08-28 |
+| [[sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup]] | source | Prof Iwan Pranoto: berpikir vs bernalar, hoaks/deepfake, logika ketat | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
 
 ## Concepts
 
@@ -63,6 +64,7 @@ updated: 2026-08-28
 | [[concepts/hutang-sebagai-leverage]] | concept | Hutang leverage produktif vs konsumtif, time horizon | 2026-08-28-belajar-hutang-ala-orang-kaya, 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
 | [[concepts/riset-market]] | concept | Riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
 | [[concepts/anomali-bursa]] | concept | Anomali bursa volatil, framework time horizon + disiplin | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
+| [[concepts/berpikir-vs-bernalar]] | concept | Berpikir vs bernalar: struktur, tujuan, logika ketat untuk lawan hoaks | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
 | [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |

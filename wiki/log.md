@@ -59,6 +59,15 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + marketing cluster 7 concepts), `wiki/index.md` (+9 sources +7 concepts +1 entity, total ~53 halaman, 18 sources)
 - Notes: Trigger `ingest lagi` — 9 new raw detected (raw 19 vs wiki 10), watcher queue 11 (incl dup slugs) cleaned. Batch 9 processed incremental, no re-read of 10 existing.
 
+## [2026-08-28] ingest | ingest again — 2026-08-28-kenapa-berpikir-saja-tidak-cukup
+
+- Raw: `raw/sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup.md` (313 lines, Prof Iwan Pranoto, 2026-04-30) — muncul setelah batch sebelumnya, diff raw 20 vs wiki 19
+- Created: `wiki/sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup.md`, `wiki/concepts/berpikir-vs-bernalar.md`
+- Updated: `wiki/overview.md` (thesis + logika cluster), `wiki/index.md` (+1 source +1 concept, total ~55 halaman, 20 sources)
+- Notes: Trigger `ingest again` — hanya 1 baru, incremental check via `comm` (raw 20 vs wiki 19) jadi tidak boros token. Watcher queue sempat bikin 13 inbox dup karena slug `&` dan ` 1.md`, dibersihin.
+
+---
+
 ---
 
 ---
