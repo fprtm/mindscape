@@ -74,3 +74,12 @@ updated: 2026-08-28
 - Notes: Trigger `ingest` — 6 baru terdeteksi via `comm` (raw 26 vs wiki 20), watcher queue 13 dup slug dibersihin, incremental terbukti untuk 100.
 
 ---
+
+## [2026-08-28] ingest | ingest — 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream
+
+- Raw: `raw/sources/2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream.md` (4583 lines, ChatGPT, roadmap 500×)
+- Created: `wiki/sources/2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream.md`, `wiki/concepts/roadmap-modal-ekstrem.md`
+- Updated: `wiki/overview.md`, `wiki/index.md` (+1 source +1 concept, total ~74 halaman, 27 sources, raw 27 == wiki 27)
+- Notes: Trigger `ingest lagi` — 1 baru terdeteksi (raw 27 vs wiki 26), incremental, watcher queue dup cleaned.
+
+---
