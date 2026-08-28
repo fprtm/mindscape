@@ -1,0 +1,7 @@
+{
+  "obsidian-attachment-download": {
+    "download-attachments-for-current-file": [
+      {"modifiers": ["Mod", "Shift"], "key": "D"}
+    ]
+  }
+}
