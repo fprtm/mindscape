@@ -74,11 +74,3 @@ updated: 2026-08-28
 - Notes: Trigger `ingest` — 6 baru terdeteksi via `comm` (raw 26 vs wiki 20), watcher queue 13 dup slug dibersihin, incremental terbukti untuk 100.
 
 ---
-
----
-
----
-
----
-
----
