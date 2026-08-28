@@ -13,7 +13,7 @@ updated: 2026-08-28
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| [[overview]] | overview | Brainpedia thesis: persistent wiki, LLM librarian, Obsidian IDE, epistemic rules | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[overview]] | overview | Brainpedia thesis + content bible vlog (Deadpan, 5 pilar, 4 formula) | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 | [[conventions]] | concept | Aturan penulisan Brainpedia: naming, frontmatter, linking, epistemik, search, git | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
 
 ## Sources
@@ -22,12 +22,19 @@ updated: 2026-08-28
 |------|------|---------|---------|---------|
 | [[sources/2026-04-04-llm-wiki]] | source | Karpathy LLM Wiki pattern — persistent compounding wiki vs RAG | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[sources/2026-08-04-llm-wiki-concept]] | source | Brainpedia spec — tujuan, 3 lapis, 10-langkah ingest, aturan epistemik | 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[sources/2026-08-28-chatgpt-konten-vlog]] | source | Content bible vlog — Deadpan, 5 pilar, 4 formula, struktur 0-45d + random footage | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 
 ## Concepts
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
 | [[concepts/brainpedia]] | concept | Brainpedia: nama & tujuan vault ini — raw→LLM→wiki→query, LLM librarian | 2026-08-04-llm-wiki-concept, 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/content-bible]] | concept | Content bible v1.0 — identitas `Cerita kecil tentang keresahan hidup, ditertawakan secukupnya` | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
+| [[concepts/content-pillars]] | concept | 5 pilar: dewasa, uang/kerja, pertemanan, diri sendiri, hal receh yang dalam | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
+| [[concepts/tone-deadpan]] | concept | Tone Deadpan Self-Deprecating — natural, sinis, self-aware, dry humor | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
+| [[concepts/formula-konten]] | concept | 4 formula: Observation→Punchline, Complaint→Self-roast, Expectation→Reality, Serius→Bodoh | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
+| [[concepts/struktur-video]] | concept | Struktur 0-45d: Hook 0-3d → keresahan → perbesar → belokan → punchline | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
+| [[concepts/visual-random-footage]] | concept | Visual random footage 8d + VO observasional → vlog kehidupan bukan essay | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 | [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |

@@ -31,4 +31,11 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (rename to Brainpedia, thesis + epistemic link), `wiki/index.md` (+3 concepts +1 conventions +1 source), `wiki/sources/2026-04-04-llm-wiki.md` untouched
 - Notes: Second source in batch `raw/sources/*`. Diterapkan mapping spec: `schema/` → `AGENTS.md`/`CLAUDE.md` + `conventions.md`, `wiki/analyses/` ditambah tanpa hapus `syntheses/`. Aturan epistemik dipisah jadi halaman tersendiri. Tidak ada destructive operation.
 
+## [2026-08-28] ingest | raw/sources/2026-08-28-chatgpt-konten-vlog.md — Content Bible Vlog
+
+- Raw: `raw/sources/2026-08-28-chatgpt-konten-vlog.md` (825 lines, ChatGPT c/6a911da..., via Web Clipper fallback manual)
+- Created: `wiki/sources/2026-08-28-chatgpt-konten-vlog.md`, `wiki/concepts/content-bible.md`, `wiki/concepts/content-pillars.md`, `wiki/concepts/tone-deadpan.md`, `wiki/concepts/formula-konten.md`, `wiki/concepts/struktur-video.md`, `wiki/concepts/visual-random-footage.md`
+- Updated: `wiki/overview.md` (thesis + content cluster 6 halaman, sources), `wiki/index.md` (+1 source +6 concepts, total 22 halaman)
+- Notes: Ingest #3 triggered by `ingest again` after raw/sources/* now has 3 files. Previous watcher confusion (vault name mindscape vs mindspace) resolved. Content cluster jadi domain pertama yang compounding di Brainpedia. Next: lint + git commit.
+
 ---
