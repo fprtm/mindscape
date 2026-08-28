@@ -45,4 +45,13 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + problem/bisnis cluster), `wiki/index.md` (+4 sources +3 concepts +3 entities, total ~32 halaman)
 - Notes: Trigger `ingest today` — 3 empty files from failed clip earlier auto-removed/replaced by 4 new clips after vault fix (mindscape s-c-a-p-e). Empty 0-byte files were skipped by watcher (wait_stable). Batch today = 4 raw, 1 stub flagged. Next: git push via post-commit hook.
 
+## [2026-08-28] ingest | today batch 2026-08-28 — continued (Kuli + Akademi + Giorrando)
+
+- Raw: `raw/sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-cuma-1-jam-william-jakfar-kuli-eps.78.md` (49K, 1000 lines), `raw/sources/2026-08-28-malu-di-depan-kamera-pake-cara-ini-buat-hasilkan-870-juta.md` (52K, 1052 lines), `raw/sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit.md` (49K, 1110 lines) — semua muncul setelah `ingest again` karena clip baru berhasil setelah vault fix
+- Created: `wiki/sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar.md`, `wiki/sources/2026-08-28-malu-di-depan-kamera-870-juta.md`, `wiki/sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit.md`, `wiki/concepts/hire-ai-assistant.md`, `wiki/concepts/jualan-tanpa-personal-branding.md`, `wiki/entities/william-jakfar.md`, `wiki/entities/akademi-marketer.md`, `wiki/entities/giorrando.md`
+- Updated: `wiki/overview.md` (thesis + AI & marketing cluster), `wiki/index.md` (+3 sources +2 concepts +3 entities, total ~40 halaman)
+- Notes: Trigger second `ingest again` — watcher `queue` sempat bikin `wiki/inbox/` stubs untuk 2 file baru, di-clean ke `wiki/sources/` full. Slug mismatch ` 1.md` vs `-1.md` dan `--` vs `-` dibersihin.
+
+---
+
 ---

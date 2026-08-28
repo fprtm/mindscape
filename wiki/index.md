@@ -27,6 +27,9 @@ updated: 2026-08-28
 | [[sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review]] | source | Theo x Jagat Review: gadget aset produktif, 30-40% fitur kepake, nice-to-have trap | 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review | 2026-08-28 |
 | [[sources/2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper]] | source | Dig Deeper: framework bisnis dari nol — resources 4 kolom + koneksi 3 lapis → execution | 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
 | [[sources/2026-08-28-gua-kasih-solusi-kaya-tanpa-privilege]] | source | Stub: kaya tanpa privilege — clip minim (16 lines), butuh re-clip | 2026-08-28-gua-kasih-solusi-kaya-tanpa-privilege | 2026-08-28 |
+| [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]] | source | Kumpul Leaders x William Jakfar: hire AI assistant 1 jam dari nol, chatbot → rekan kerja | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
+| [[sources/2026-08-28-malu-di-depan-kamera-870-juta]] | source | Akademi Marketer: 700-870jt tanpa personal branding via Meta Ads sales | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
+| [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] | source | Giorrando: nasehat bisnis 11 tahun, ikan hias viral → Adsense tidak stabil, audiens mismatch | 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit | 2026-08-28 |
 
 ## Concepts
 
@@ -42,6 +45,8 @@ updated: 2026-08-28
 | [[concepts/definisi-masalah]] | concept | Definisi masalah = gap antara kondisi sekarang & tujuan; tanpa tujuan solusi meleset | 2026-08-28-anatomy-of-a-problem-the-trial-1 | 2026-08-28 |
 | [[concepts/gadget-sebagai-aset-produktif]] | concept | Gadget aset produktif vs nice-to-have trap (30-40% fitur kepake) | 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review | 2026-08-28 |
 | [[concepts/framework-mulai-bisnis-dari-nol]] | concept | Framework bisnis nol: resources 4 kolom + koneksi 3 lapis → opportunities → execution | 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
+| [[concepts/hire-ai-assistant]] | concept | Hire AI assistant 1 jam: dari chatbot/translate → rekan kerja (website, brief, riset) | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
+| [[concepts/jualan-tanpa-personal-branding]] | concept | Jualan tanpa branding via Meta Ads sales + landing page AB testing | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
 | [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |
@@ -62,6 +67,9 @@ updated: 2026-08-28
 | [[entities/theo-derick]] | entity | Theo Derick — host Dig Deeper/Darinol, framework bisnis resources→execution | 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review | 2026-08-28 |
 | [[entities/malaka-project]] | entity | Malaka Project — kolektif edukasi Ferry Irwandi dkk, Masyarakat Baru | 2026-08-28-anatomy-of-a-problem-the-trial-1 | 2026-08-28 |
 | [[entities/jagat-review]] | entity | Jagat Review — media gadget, narasumber Dedy Irvan | 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review | 2026-08-28 |
+| [[entities/william-jakfar]] | entity | William Jakfar — Founder BelajarGPT, hire AI assistant 1 jam | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
+| [[entities/akademi-marketer]] | entity | Akademi Marketer — komunitas Meta Ads, case 717jt tanpa branding | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
+| [[entities/giorrando]] | entity | Giorrando — Giorrando Academy, nasehat bisnis 11 tahun | 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit | 2026-08-28 |
 
 ## Syntheses
 

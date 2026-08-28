@@ -2,9 +2,9 @@
 title: Overview — Brainpedia
 type: overview
 status: active
-sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper]
+sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper, 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar, 2026-08-28-malu-di-depan-kamera-870-juta, 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]
 updated: 2026-08-28
-tags: [meta, wiki, brainpedia, content, bisnis, problem-solving]
+tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai]
 ---
 
 # Overview
@@ -21,7 +21,9 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving]
 > 
 > **Update 2026-08-28 #1**: domain pertama **content bible vlog kehidupan** (ChatGPT) — dari `humor terlalu dibuat jokes` → identitas `[[concepts/content-bible|Cerita kecil tentang keresahan hidup, ditertawakan secukupnya]]` dengan DNA `Keresahan → serius → belok → self-roast` (6 halaman baru).
 > 
-> **Update 2026-08-28 #2 — today batch**: 4 sumber baru (Malaka Trial, Jagat Review, Dig Deeper) menambah cluster **problem solving & bisnis** — [[concepts/definisi-masalah]] (masalah = gap tujuan), [[concepts/gadget-sebagai-aset-produktif]] (30-40% fitur kepake → nice to have trap), [[concepts/framework-mulai-bisnis-dari-nol]] (resources 4 kolom + koneksi 3 lapis + opportunities → execution → Kota Tua Market 2015). Total wiki ~32 halaman.
+> **Update 2026-08-28 #2 — today batch 1**: 4 sumber (Malaka Trial, Jagat Review, Dig Deeper) menambah cluster **problem solving & bisnis** — [[concepts/definisi-masalah]] (gap tujuan), [[concepts/gadget-sebagai-aset-produktif]] (30-40% trap), [[concepts/framework-mulai-bisnis-dari-nol]] (resources→koneksi→opportunities→execution → Kota Tua Market 2015).
+> 
+> **Update 2026-08-28 #3 — today batch 2**: 3 sumber baru (Kuli Eps.78, Akademi Marketer, Giorrando) menambah **AI produktivitas & jualan tanpa branding** — [[concepts/hire-ai-assistant]] (1 jam hire AI dari chatbot → rekan kerja), [[concepts/jualan-tanpa-personal-branding]] (717jt via Meta Ads tanpa ngonten), plus nasehat ikan hias 110K subs sulit monetisasi karena audiens mismatch. Total wiki ~40 halaman.
 
 ### Architecture (from [[sources/2026-04-04-llm-wiki]])
 
@@ -43,10 +45,11 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving]
 - [[concepts/memex]] — akar historis Bush 1945
 - **Content cluster**: [[concepts/content-bible]] (identitas & DNA), [[concepts/content-pillars]] (5 pilar), [[concepts/tone-deadpan]] (Deadpan Self-Deprecating), [[concepts/formula-konten]] (4 formula), [[concepts/struktur-video]] (0-45d), [[concepts/visual-random-footage]] (random footage + VO)
 - **Problem & Bisnis cluster (today)**: [[concepts/definisi-masalah]] (gap tujuan), [[concepts/gadget-sebagai-aset-produktif]] (30-40% → nice to have), [[concepts/framework-mulai-bisnis-dari-nol]] (resources→koneksi→opportunities→execution)
+- **AI & Marketing cluster (today)**: [[concepts/hire-ai-assistant]] (1 jam hire AI), [[concepts/jualan-tanpa-personal-branding]] (717jt via Meta Ads), nasehat [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] (110K subs ≠ bisnis)
 
 ### Graph Health
 
-- Ingest #1 (2026-04-04-llm-wiki): 9 concepts + 2 entities + 1 source. Ingest #2 (2026-08-04-llm-wiki-concept): +1 source + 3 halaman. Ingest #3 (2026-08-28-chatgpt-konten-vlog): +1 source + 6 halaman content cluster. Ingest #4 today batch (2026-08-28): +4 sources (anatomy, cara-manfaatin, step-by-step, stub kaya) + 3 concepts (definisi-masalah, gadget-aset, framework-bisnis) + 3 entities (theo-derick, malaka-project, jagat-review). Total ~32 halaman wiki.
+- Ingest #1 (2026-04-04-llm-wiki): 9 concepts + 2 entities + 1 source. Ingest #2 (2026-08-04-llm-wiki-concept): +1 source + 3 halaman. Ingest #3 (2026-08-28-chatgpt-konten-vlog): +1 source + 6 halaman content cluster. Ingest #4 today batch 1 (2026-08-28): +4 sources +3 concepts +3 entities. Ingest #5 today batch 2 (2026-08-28): +3 sources +2 concepts +3 entities. Total ~40 halaman wiki.
 - Semua sudah cross-link via `## Related` dan terdaftar di `[[index]]`.
 - Goal: zero orphans. Saat ini `python scripts/lint.py` orphan hanya `wiki/inbox/README.md` (staging, expected).
 
@@ -59,7 +62,10 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving]
 - [[sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review]] — Jagat Review x Theo (2026-07-23)
 - [[sources/2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper]] — Framework bisnis dari nol (2024-03-25)
 - [[sources/2026-08-28-gua-kasih-solusi-kaya-tanpa-privilege]] — stub (transcript minim)
-- `raw/sources/2026-04-04-llm-wiki.md`, `raw/sources/2026-08-04-llm-wiki-concept.md`, `raw/sources/2026-08-28-chatgpt-konten-vlog.md`, `raw/sources/2026-08-28-anatomy-*`, `raw/sources/2026-08-28-cara-manfaatin*`, `raw/sources/2026-08-28-step-by-step*`
+- [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]] — Kuli Eps.78: hire AI 1 jam (2026-08-21)
+- [[sources/2026-08-28-malu-di-depan-kamera-870-juta]] — Akademi Marketer: 717jt tanpa branding (2026-04-18)
+- [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] — Giorrando: nasehat bisnis ikan hias (2026-08-24)
+- `raw/sources/2026-04-04-llm-wiki.md`, `raw/sources/2026-08-04-llm-wiki-concept.md`, `raw/sources/2026-08-28-*.md` (10 total today)
 
 ## Related
 
@@ -71,7 +77,11 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving]
 - [[sources/2026-08-28-anatomy-of-a-problem-the-trial-1]]
 - [[sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review]]
 - [[sources/2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper]]
+- [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]]
+- [[sources/2026-08-28-malu-di-depan-kamera-870-juta]]
+- [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]]
 - [[concepts/brainpedia]]
 - [[concepts/content-bible]]
 - [[concepts/definisi-masalah]]
+- [[concepts/hire-ai-assistant]]
 - [[conventions]]
