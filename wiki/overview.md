@@ -1,25 +1,23 @@
 ---
-title: Overview
+title: Overview — Brainpedia
 type: overview
 status: active
-sources: [2026-04-04-llm-wiki]
+sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept]
 updated: 2026-08-28
-tags: [meta, wiki]
+tags: [meta, wiki, brainpedia]
 ---
 
 # Overview
 
 ## Summary
 
-This vault implements Karpathy's LLM Wiki pattern: a persistent, compounding knowledge base where the LLM incrementally compiles raw sources into an interlinked wiki. Raw sources remain immutable; the wiki is LLM-maintained; the schema (`AGENTS.md`) is the discipline that makes it compound.
+**Brainpedia** — vault `mindscape` ini adalah persistent compounding wiki berbasis pattern Karpathy. LLM jadi librarian/maintainer, Obsidian jadi IDE. Alur `raw sources → LLM processing → persistent wiki → future queries`, bukan RAG re-derive tiap query. Aturan epistemik [[concepts/epistemic-rules]] dijaga: fakta vs inference vs spekulasi vs opini dipisah dan disitasi per klaim.
 
 ## Content
 
 ### Thesis / Working Synthesis
 
-*Empty on initialization — this section will evolve as sources are ingested. It should hold the 3-5 sentence current synthesis of everything in the vault.*
-
-> Placeholder: The wiki is young. Add sources via `raw/sources/` and run ingest to build the thesis here.
+> Vault ini mengimplementasikan **persistent compounding wiki** (Karpathy 2026-04-04): daripada RAG yang re-derive tiap query, pengetahuan dikompilasi sekali ke `wiki/` dan dijaga tetap current via ingest/query/lint. Satu ingest menyentuh 10-15 halaman; cross-reference, kontradiksi, dan sintesis sudah siap sebelum ditanya. Spirit-nya adalah [[concepts/memex]] Bush (1945) — private curated store dengan associative trails — yang baru feasible karena LLM yang handle bookkeeping membosankan. Manusia kurasi sumber & tanya pertanyaan bagus; LLM jadi programmer, Obsidian jadi IDE, wiki jadi codebase.
 
 ### Architecture (from [[sources/2026-04-04-llm-wiki]])
 
@@ -29,22 +27,34 @@ This vault implements Karpathy's LLM Wiki pattern: a persistent, compounding kno
 
 ### Key Ideas to Track
 
-- [[concepts/persistent-wiki]] (planned) — compounding artifact vs per-query RAG
-- [[concepts/rag-vs-wiki]] (planned) — RAG re-derives; wiki compiles once
-- [[concepts/obsidian-as-ide]] (planned) — "LLM is programmer, Obsidian is IDE, wiki is codebase"
+- [[concepts/brainpedia]] — Brainpedia itu sendiri (nama & tujuan vault ini)
+- [[concepts/persistent-wiki]] — compounding artifact: compile once, keep current
+- [[concepts/rag-vs-wiki]] — perbandingan RAG re-derive vs wiki persistent
+- [[concepts/three-layer-architecture]] — raw / wiki / schema
+- [[concepts/epistemic-rules]] — fakta vs inference vs spekulasi, flag contradiction
+- [[conventions]] — naming, frontmatter, linking, Obsidian, search, git
+- [[concepts/obsidian-as-ide]] — "LLM is programmer, Obsidian is IDE, wiki is codebase"
+- [[concepts/index-vs-log]] — index (katalog) vs log (kronologi)
+- [[concepts/ingest-operation]] / [[concepts/query-operation]] / [[concepts/lint-operation]] — tiga operasi utama
+- [[concepts/memex]] — akar historis Bush 1945
 
 ### Graph Health
 
-- No pages yet — graph view will populate after first ingest.
-- Goal: zero orphans, every page reachable via `Related` links and `index.md`.
+- Ingest #1 (2026-04-04-llm-wiki): 9 concepts + 2 entities + 1 source. Ingest #2 (2026-08-04-llm-wiki-concept): +1 source + 3 halaman (brainpedia, epistemic-rules, conventions) + folder `wiki/analyses/`. Total ~15 halaman wiki.
+- Semua sudah cross-link via `## Related` dan terdaftar di `[[index]]`.
+- Goal: zero orphans. Saat ini `python scripts/lint.py` orphan hanya `wiki/inbox/README.md` (staging, expected).
 
 ## Sources
 
 - [[sources/2026-04-04-llm-wiki]] — Karpathy gist `442a6bf555914893e9891c11519de94f` (2026-04-04)
-- `raw/sources/2026-04-04-llm-wiki.md` (local mirror)
+- [[sources/2026-08-04-llm-wiki-concept]] — Brainpedia spec (2026-08-04)
+- `raw/sources/2026-04-04-llm-wiki.md`, `raw/sources/2026-08-04-llm-wiki-concept.md`
 
 ## Related
 
 - [[index]]
 - [[log]]
 - [[sources/2026-04-04-llm-wiki]]
+- [[sources/2026-08-04-llm-wiki-concept]]
+- [[concepts/brainpedia]]
+- [[conventions]]

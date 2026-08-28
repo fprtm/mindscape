@@ -13,31 +13,44 @@ updated: 2026-08-28
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| [[overview]] | overview | Synthesis / thesis of the whole wiki | — | 2026-08-28 |
+| [[overview]] | overview | Brainpedia thesis: persistent wiki, LLM librarian, Obsidian IDE, epistemic rules | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[conventions]] | concept | Aturan penulisan Brainpedia: naming, frontmatter, linking, epistemik, search, git | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
 
 ## Sources
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
 | [[sources/2026-04-04-llm-wiki]] | source | Karpathy LLM Wiki pattern — persistent compounding wiki vs RAG | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[sources/2026-08-04-llm-wiki-concept]] | source | Brainpedia spec — tujuan, 3 lapis, 10-langkah ingest, aturan epistemik | 2026-08-04-llm-wiki-concept | 2026-08-28 |
 
 ## Concepts
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| *empty — will populate on ingest* | | | | |
+| [[concepts/brainpedia]] | concept | Brainpedia: nama & tujuan vault ini — raw→LLM→wiki→query, LLM librarian | 2026-08-04-llm-wiki-concept, 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/epistemic-rules]] | concept | Aturan epistemik: pisah fakta/inference/spekulasi/opini, sitasi, flag contradiction | 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[concepts/obsidian-as-ide]] | concept | LLM programmer, Obsidian IDE, wiki codebase — Web Clipper, Graph, Dataview, Marp | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/ingest-operation]] | concept | Ingest: drop ke raw/sources/ → discuss → plan → generate 10-15 halaman → index+log | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/query-operation]] | concept | Query: index + BM25 union → top-k wiki → sintesis + sitasi → file balik ke questions/ | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/lint-operation]] | concept | Lint: cek kontradiksi, stale, orphan, stub, duplikat, copied-state drift | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/memex]] | concept | Memex Bush 1945 — private curated trails, LLM yang solve maintenance | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/index-vs-log]] | concept | index.md katalog isi vs log.md history kronologis parseable | 2026-04-04-llm-wiki | 2026-08-28 |
 
 ## Entities
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| *empty — will populate on ingest* | | | | |
+| [[entities/karpathy]] | entity | Andrej Karpathy — penulis gist llm-wiki 2026-04-04, pattern persistent wiki | 2026-04-04-llm-wiki | 2026-08-28 |
+| [[entities/vannevar-bush]] | entity | Vannevar Bush — pencetus Memex 1945, spirit di balik LLM Wiki | 2026-04-04-llm-wiki | 2026-08-28 |
 
 ## Syntheses
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| *empty — will populate on ingest* | | | | |
+| *empty — will populate on synthesis/query filing* | | | | |
 
 ## Questions
 
