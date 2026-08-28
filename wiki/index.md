@@ -40,6 +40,12 @@ updated: 2026-08-28
 | [[sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial]] | source | Malaka x Sabda PS: engineering thinking identifikasi problem vs persepsi | 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial | 2026-08-28 |
 | [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] | source | Ferry Irwandi: kuliah publik Trisakti — pertumbuhan ekonomi, GDP, inovasi & produktivitas | 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti | 2026-08-28 |
 | [[sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup]] | source | Prof Iwan Pranoto: berpikir vs bernalar, hoaks/deepfake, logika ketat | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[sources/2026-08-28-aku-membuat-ai-dari-nol]] | source | Fajrul Fx: bikin AI dari nol via neuron→math→coding (Dreamina) | 2026-08-28-aku-membuat-ai-dari-nol | 2026-08-28 |
+| [[sources/2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini]] | source | Creativera Augie & Hansel: bisnis sulit sebelum tau konsep | 2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini | 2026-08-28 |
+| [[sources/2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo]] | source | Creativera Monologue: sistem bisnis jalan tanpa owner | 2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo | 2026-08-28 |
+| [[sources/2026-08-28-how-to-learn-to-code-in-2026]] | source | Tina Huang: how to learn to code 2026 + Warp + AI Sprint | 2026-08-28-how-to-learn-to-code-in-2026 | 2026-08-28 |
+| [[sources/2026-08-28-survival-mode-2026-cuanomix]] | source | Malaka x Cuanomix: survival mode 2026, 1jt sarjana nganggur | 2026-08-28-survival-mode-2026-cuanomix | 2026-08-28 |
+| [[sources/2026-08-28-training-cara-bikin-konten-viral]] | source | Malaka: training konten viral ke 30 tim | 2026-08-28-training-cara-bikin-konten-viral | 2026-08-28 |
 
 ## Concepts
 
@@ -65,6 +71,9 @@ updated: 2026-08-28
 | [[concepts/riset-market]] | concept | Riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
 | [[concepts/anomali-bursa]] | concept | Anomali bursa volatil, framework time horizon + disiplin | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
 | [[concepts/berpikir-vs-bernalar]] | concept | Berpikir vs bernalar: struktur, tujuan, logika ketat untuk lawan hoaks | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[concepts/ai-dari-nol]] | concept | AI dari nol: neuron→math→coding via Fajrul Fx | 2026-08-28-aku-membuat-ai-dari-nol | 2026-08-28 |
+| [[concepts/survival-mode-2026]] | concept | Survival mode 2026: ekonomi tak pasti, 1jt sarjana nganggur | 2026-08-28-survival-mode-2026-cuanomix | 2026-08-28 |
+| [[concepts/sistem-bisnis-tanpa-owner]] | concept | Sistem bisnis tanpa owner (Monologue Augie) | 2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo | 2026-08-28 |
 | [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |

@@ -66,6 +66,15 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + logika cluster), `wiki/index.md` (+1 source +1 concept, total ~55 halaman, 20 sources)
 - Notes: Trigger `ingest again` — hanya 1 baru, incremental check via `comm` (raw 20 vs wiki 19) jadi tidak boros token. Watcher queue sempat bikin 13 inbox dup karena slug `&` dan ` 1.md`, dibersihin.
 
+## [2026-08-28] ingest | ingest batch 2026-08-28 — 6 baru (Fajrul + Creativera + Tina + Cuanomix + Malaka)
+
+- Raw: `raw/sources/2026-08-28-aku-membuat-ai-dari-nol..md` (120 lines, Fajrul Fx), `raw/sources/2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini---insights-083-(ft.-augie-&-hansel).md` (487 lines, Creativera), `raw/sources/2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo---monologue-017-(ft.-augie-aditya).md` (117 lines, Creativera), `raw/sources/2026-08-28-how-to-learn-to-code-in-2026.md` (191 lines, Tina Huang), `raw/sources/2026-08-28-survival-mode-2026-bikin-diri-&-bisnis-tetap-laku-di-tengah-ekonomi-yang-tak-pasti--cuanomix.md` (989 lines, Malaka Cuanomix), `raw/sources/2026-08-28-training-cara-bikin-konten-viral-ke-30-orang-tim-saya.md` (430 lines, Malaka)
+- Created: `wiki/sources/2026-08-28-aku-membuat-ai-dari-nol.md`, `wiki/sources/2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini.md`, `wiki/sources/2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo.md`, `wiki/sources/2026-08-28-how-to-learn-to-code-in-2026.md`, `wiki/sources/2026-08-28-survival-mode-2026-cuanomix.md`, `wiki/sources/2026-08-28-training-cara-bikin-konten-viral.md`, `wiki/concepts/ai-dari-nol.md`, `wiki/concepts/survival-mode-2026.md`, `wiki/concepts/sistem-bisnis-tanpa-owner.md`
+- Updated: `wiki/overview.md` (thesis + survival & AI cluster), `wiki/index.md` (+6 sources +3 concepts, total ~64 halaman, 26 sources, raw 26 == wiki 26 sinkron)
+- Notes: Trigger `ingest` — 6 baru terdeteksi via `comm` (raw 26 vs wiki 20), watcher queue 13 dup slug dibersihin, incremental terbukti untuk 100.
+
+---
+
 ---
 
 ---
