@@ -38,4 +38,11 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + content cluster 6 halaman, sources), `wiki/index.md` (+1 source +6 concepts, total 22 halaman)
 - Notes: Ingest #3 triggered by `ingest again` after raw/sources/* now has 3 files. Previous watcher confusion (vault name mindscape vs mindspace) resolved. Content cluster jadi domain pertama yang compounding di Brainpedia. Next: lint + git commit.
 
+## [2026-08-28] ingest | today batch 2026-08-28 — Malaka + Jagat Review + Dig Deeper
+
+- Raw: `raw/sources/2026-08-28-anatomy-of-a-problem--the-trial 1.md` (91K, 1019 lines, Malaka), `raw/sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review.md` (58K, 1201 lines, Theo x Jagat), `raw/sources/2026-08-28-step-by-step-mulai-bisnis-dari-nol--dig-deeper.md` (14K, 94 lines, Theo), `raw/sources/2026-08-28-gua-kasih-solusi-kaya-tanpa-privilege‼️tanpa-nipu,-tanpa-koin😂--the-host---theo-derick.md` (739 bytes, stub 16 lines)
+- Created: `wiki/sources/2026-08-28-anatomy-of-a-problem-the-trial-1.md`, `wiki/sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review.md`, `wiki/sources/2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper.md`, `wiki/sources/2026-08-28-gua-kasih-solusi-kaya-tanpa-privilege.md` (stub), `wiki/concepts/definisi-masalah.md`, `wiki/concepts/gadget-sebagai-aset-produktif.md`, `wiki/concepts/framework-mulai-bisnis-dari-nol.md`, `wiki/entities/theo-derick.md`, `wiki/entities/malaka-project.md`, `wiki/entities/jagat-review.md`
+- Updated: `wiki/overview.md` (thesis + problem/bisnis cluster), `wiki/index.md` (+4 sources +3 concepts +3 entities, total ~32 halaman)
+- Notes: Trigger `ingest today` — 3 empty files from failed clip earlier auto-removed/replaced by 4 new clips after vault fix (mindscape s-c-a-p-e). Empty 0-byte files were skipped by watcher (wait_stable). Batch today = 4 raw, 1 stub flagged. Next: git push via post-commit hook.
+
 ---

@@ -2,5 +2,6 @@
   "attachmentFolderPath": "raw/assets",
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "promptDelete": false
 }
