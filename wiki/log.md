@@ -52,6 +52,15 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + AI & marketing cluster), `wiki/index.md` (+3 sources +2 concepts +3 entities, total ~40 halaman)
 - Notes: Trigger second `ingest again` — watcher `queue` sempat bikin `wiki/inbox/` stubs untuk 2 file baru, di-clean ke `wiki/sources/` full. Slug mismatch ` 1.md` vs `-1.md` dan `--` vs `-` dibersihin.
 
+## [2026-08-28] ingest | ingest lagi batch 2026-08-28 — Marketing & Bisnis
+
+- Raw: `raw/sources/2026-08-28-15-menit-auto-paham-marketing-&-branding.md` (141 lines, Malaka/Pandji), `raw/sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah--the-trial.md` (671 lines, Sabda PS), `raw/sources/2026-08-28-belajar-hutang-ala-orang-kaya.md` (412 lines, Raymond Chin), `raw/sources/2026-08-28-branding-lo-jelek,-bisnis-lo-susah-sukses!-darinol-ft-stephanie-regina.md` (922 lines, Haloka), `raw/sources/2026-08-28-cara-riset-market---belajar-bisnis-online-untuk-pemula.md` (86 lines, Denny Santoso), `raw/sources/2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia.md` (133 lines, Ferry Irwandi), `raw/sources/2026-08-28-materi-strategi-digital-marketing-dari-harvard-business-school.md` (126 lines, Ferry Irwandi Harvard), `raw/sources/2026-08-28-trik-marketing-yang-semua-orang-wajib-tau-(gw-sendiri-pake).md` (256 lines, Raymond Chin), `raw/sources/2026-08-28-kuliah-publik-inovasi-&-produktivitas--universitas-trisakti.md` (1089 lines, Ferry Irwandi Trisakti)
+- Created: `wiki/sources/2026-08-28-15-menit-auto-paham-marketing-branding.md`, `wiki/sources/2026-08-28-belajar-hutang-ala-orang-kaya.md`, `wiki/sources/2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses.md`, `wiki/sources/2026-08-28-cara-riset-market-belajar-bisnis-online.md`, `wiki/sources/2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia.md`, `wiki/sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial.md`, `wiki/sources/2026-08-28-materi-strategi-digital-marketing-harvard.md`, `wiki/sources/2026-08-28-trik-marketing-yang-semua-orang-wajib-tau.md`, `wiki/sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti.md`, `wiki/concepts/marketing-vs-branding.md`, `wiki/concepts/klinik-branding.md`, `wiki/concepts/strategi-digital-marketing.md`, `wiki/concepts/marketing-funnel.md`, `wiki/concepts/hutang-sebagai-leverage.md`, `wiki/concepts/riset-market.md`, `wiki/concepts/anomali-bursa.md`, `wiki/entities/raymond-chin.md`
+- Updated: `wiki/overview.md` (thesis + marketing cluster 7 concepts), `wiki/index.md` (+9 sources +7 concepts +1 entity, total ~53 halaman, 18 sources)
+- Notes: Trigger `ingest lagi` — 9 new raw detected (raw 19 vs wiki 10), watcher queue 11 (incl dup slugs) cleaned. Batch 9 processed incremental, no re-read of 10 existing.
+
+---
+
 ---
 
 ---

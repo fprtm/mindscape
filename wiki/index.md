@@ -30,6 +30,15 @@ updated: 2026-08-28
 | [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]] | source | Kumpul Leaders x William Jakfar: hire AI assistant 1 jam dari nol, chatbot → rekan kerja | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
 | [[sources/2026-08-28-malu-di-depan-kamera-870-juta]] | source | Akademi Marketer: 700-870jt tanpa personal branding via Meta Ads sales | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
 | [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] | source | Giorrando: nasehat bisnis 11 tahun, ikan hias viral → Adsense tidak stabil, audiens mismatch | 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit | 2026-08-28 |
+| [[sources/2026-08-28-15-menit-auto-paham-marketing-branding]] | source | Malaka x Pandji: marketing vs branding, iklan→PR→selling beda peran | 2026-08-28-15-menit-auto-paham-marketing-branding | 2026-08-28 |
+| [[sources/2026-08-28-belajar-hutang-ala-orang-kaya]] | source | Raymond Chin: hutang leverage ala konglomerat, time horizon | 2026-08-28-belajar-hutang-ala-orang-kaya | 2026-08-28 |
+| [[sources/2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses]] | source | Haloka x Stephanie: klinik branding 3 step → Audit→Strategy→Purpose Canvas | 2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses | 2026-08-28 |
+| [[sources/2026-08-28-cara-riset-market-belajar-bisnis-online]] | source | Denny Santoso: riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
+| [[sources/2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia]] | source | Ferry Irwandi: anomali bursa volatil, mindset + time horizon | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
+| [[sources/2026-08-28-materi-strategi-digital-marketing-harvard]] | source | Ferry Irwandi: strategi digital marketing Harvard — objektif→customer→ukur | 2026-08-28-materi-strategi-digital-marketing-harvard | 2026-08-28 |
+| [[sources/2026-08-28-trik-marketing-yang-semua-orang-wajib-tau]] | source | Raymond Chin: marketing funnel, improve service + Whatsapp Business | 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau | 2026-08-28 |
+| [[sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial]] | source | Malaka x Sabda PS: engineering thinking identifikasi problem vs persepsi | 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial | 2026-08-28 |
+| [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] | source | Ferry Irwandi: kuliah publik Trisakti — pertumbuhan ekonomi, GDP, inovasi & produktivitas | 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti | 2026-08-28 |
 
 ## Concepts
 
@@ -47,6 +56,13 @@ updated: 2026-08-28
 | [[concepts/framework-mulai-bisnis-dari-nol]] | concept | Framework bisnis nol: resources 4 kolom + koneksi 3 lapis → opportunities → execution | 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
 | [[concepts/hire-ai-assistant]] | concept | Hire AI assistant 1 jam: dari chatbot/translate → rekan kerja (website, brief, riset) | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
 | [[concepts/jualan-tanpa-personal-branding]] | concept | Jualan tanpa branding via Meta Ads sales + landing page AB testing | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
+| [[concepts/marketing-vs-branding]] | concept | Marketing vs branding: iklan→PR→selling beda, branding persepsi | 2026-08-28-15-menit-auto-paham-marketing-branding, 2026-08-28-materi-strategi-digital-marketing-harvard | 2026-08-28 |
+| [[concepts/klinik-branding]] | concept | Klinik branding Haloka 3 step: Audit→Strategy→Purpose Canvas | 2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses | 2026-08-28 |
+| [[concepts/strategi-digital-marketing]] | concept | Strategi digital Harvard: objektif→customer→ukur, bukan konten doang | 2026-08-28-materi-strategi-digital-marketing-harvard | 2026-08-28 |
+| [[concepts/marketing-funnel]] | concept | Marketing funnel: banyak skip step, fix via service + Whatsapp Business | 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau | 2026-08-28 |
+| [[concepts/hutang-sebagai-leverage]] | concept | Hutang leverage produktif vs konsumtif, time horizon | 2026-08-28-belajar-hutang-ala-orang-kaya, 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
+| [[concepts/riset-market]] | concept | Riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
+| [[concepts/anomali-bursa]] | concept | Anomali bursa volatil, framework time horizon + disiplin | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
 | [[concepts/persistent-wiki]] | concept | Wiki persisten & compounding: cross-ref & sintesis sudah siap sebelum ditanya | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/rag-vs-wiki]] | concept | RAG re-derive tiap query vs wiki compile-once, mahal di ingest murah di query | 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/three-layer-architecture]] | concept | 3 lapis: raw immutable / wiki LLM-owned / schema (AGENTS.md) | 2026-04-04-llm-wiki | 2026-08-28 |
@@ -70,6 +86,7 @@ updated: 2026-08-28
 | [[entities/william-jakfar]] | entity | William Jakfar — Founder BelajarGPT, hire AI assistant 1 jam | 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar | 2026-08-28 |
 | [[entities/akademi-marketer]] | entity | Akademi Marketer — komunitas Meta Ads, case 717jt tanpa branding | 2026-08-28-malu-di-depan-kamera-870-juta | 2026-08-28 |
 | [[entities/giorrando]] | entity | Giorrando — Giorrando Academy, nasehat bisnis 11 tahun | 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit | 2026-08-28 |
+| [[entities/raymond-chin]] | entity | Raymond Chin — hutang leverage & marketing funnel | 2026-08-28-belajar-hutang-ala-orang-kaya, 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau | 2026-08-28 |
 
 ## Syntheses
 

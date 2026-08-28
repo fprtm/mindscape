@@ -2,16 +2,16 @@
 title: Overview — Brainpedia
 type: overview
 status: active
-sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper, 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar, 2026-08-28-malu-di-depan-kamera-870-juta, 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]
+sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper, 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar, 2026-08-28-malu-di-depan-kamera-870-juta, 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit, 2026-08-28-15-menit-auto-paham-marketing-branding, 2026-08-28-belajar-hutang-ala-orang-kaya, 2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses, 2026-08-28-cara-riset-market-belajar-bisnis-online, 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia, 2026-08-28-materi-strategi-digital-marketing-harvard, 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau]
 updated: 2026-08-28
-tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai]
+tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai, marketing]
 ---
 
 # Overview
 
 ## Summary
 
-**Brainpedia** — vault `mindscape` ini adalah persistent compounding wiki berbasis pattern Karpathy. LLM jadi librarian/maintainer, Obsidian jadi IDE. Alur `raw sources → LLM processing → persistent wiki → future queries`, bukan RAG re-derive tiap query. Aturan epistemik [[concepts/epistemic-rules]] dijaga. Domain compounding: **content bible vlog** (Deadpan, 5 pilar, 4 formula) + **problem solving & bisnis** — definisi masalah sebagai gap tujuan, gadget sebagai aset produktif, framework mulai bisnis dari nol (resources→koneksi→opportunities→execution).
+**Brainpedia** — vault `mindscape` ini adalah persistent compounding wiki berbasis pattern Karpathy. LLM jadi librarian/maintainer, Obsidian jadi IDE. Alur `raw sources → LLM processing → persistent wiki → future queries`, bukan RAG re-derive tiap query. Aturan epistemik [[concepts/epistemic-rules]] dijaga. Domain compounding: **content bible vlog** (Deadpan) + **problem solving & bisnis** (definisi masalah, gadget aset, framework) + **AI & marketing** (hire AI 1 jam, jualan tanpa branding, marketing vs branding, funnel, hutang leverage, riset market).
 
 ## Content
 
@@ -24,6 +24,8 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai]
 > **Update 2026-08-28 #2 — today batch 1**: 4 sumber (Malaka Trial, Jagat Review, Dig Deeper) menambah cluster **problem solving & bisnis** — [[concepts/definisi-masalah]] (gap tujuan), [[concepts/gadget-sebagai-aset-produktif]] (30-40% trap), [[concepts/framework-mulai-bisnis-dari-nol]] (resources→koneksi→opportunities→execution → Kota Tua Market 2015).
 > 
 > **Update 2026-08-28 #3 — today batch 2**: 3 sumber baru (Kuli Eps.78, Akademi Marketer, Giorrando) menambah **AI produktivitas & jualan tanpa branding** — [[concepts/hire-ai-assistant]] (1 jam hire AI dari chatbot → rekan kerja), [[concepts/jualan-tanpa-personal-branding]] (717jt via Meta Ads tanpa ngonten), plus nasehat ikan hias 110K subs sulit monetisasi karena audiens mismatch. Total wiki ~40 halaman.
+> 
+> **Update 2026-08-28 #4 — today batch 3 (ingest lagi)**: 8 sumber baru (Malaka Pandji, Raymond Chin, Haloka, Denny Santoso, Ferry Irwandi x2, Harvard, Funnel, Trisakti) menambah **marketing cluster** — [[concepts/marketing-vs-branding]] (iklan→PR→selling), [[concepts/klinik-branding]] (Audit→Strategy→Purpose Canvas), [[concepts/strategi-digital-marketing]] (Harvard: objektif→ukur), [[concepts/marketing-funnel]] (skip funnel → fix service + WA Business), [[concepts/hutang-sebagai-leverage]] (hutang produktif), [[concepts/riset-market]] (fondasi pemula), [[concepts/anomali-bursa]] (volatil → time horizon) + kuliah Trisakti GDP. Total wiki ~53 halaman, 18 sources.
 
 ### Architecture (from [[sources/2026-04-04-llm-wiki]])
 
@@ -46,10 +48,11 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai]
 - **Content cluster**: [[concepts/content-bible]] (identitas & DNA), [[concepts/content-pillars]] (5 pilar), [[concepts/tone-deadpan]] (Deadpan Self-Deprecating), [[concepts/formula-konten]] (4 formula), [[concepts/struktur-video]] (0-45d), [[concepts/visual-random-footage]] (random footage + VO)
 - **Problem & Bisnis cluster (today)**: [[concepts/definisi-masalah]] (gap tujuan), [[concepts/gadget-sebagai-aset-produktif]] (30-40% → nice to have), [[concepts/framework-mulai-bisnis-dari-nol]] (resources→koneksi→opportunities→execution)
 - **AI & Marketing cluster (today)**: [[concepts/hire-ai-assistant]] (1 jam hire AI), [[concepts/jualan-tanpa-personal-branding]] (717jt via Meta Ads), nasehat [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] (110K subs ≠ bisnis)
+- **Marketing cluster (today batch 3)**: [[concepts/marketing-vs-branding]], [[concepts/klinik-branding]], [[concepts/strategi-digital-marketing]], [[concepts/marketing-funnel]], [[concepts/hutang-sebagai-leverage]], [[concepts/riset-market]], [[concepts/anomali-bursa]]
 
 ### Graph Health
 
-- Ingest #1 (2026-04-04-llm-wiki): 9 concepts + 2 entities + 1 source. Ingest #2 (2026-08-04-llm-wiki-concept): +1 source + 3 halaman. Ingest #3 (2026-08-28-chatgpt-konten-vlog): +1 source + 6 halaman content cluster. Ingest #4 today batch 1 (2026-08-28): +4 sources +3 concepts +3 entities. Ingest #5 today batch 2 (2026-08-28): +3 sources +2 concepts +3 entities. Total ~40 halaman wiki.
+- Ingest #1 (2026-04-04-llm-wiki): 9 concepts + 2 entities + 1 source. Ingest #2 (2026-08-04-llm-wiki-concept): +1 source + 3 halaman. Ingest #3 (2026-08-28-chatgpt-konten-vlog): +1 source + 6 halaman content cluster. Ingest #4 today batch 1 (2026-08-28): +4 sources +3 concepts +3 entities. Ingest #5 today batch 2 (2026-08-28): +3 sources +2 concepts +3 entities. Ingest #6 today batch 3 (ingest lagi): +8 sources +7 concepts +2 entities. Total ~53 halaman wiki, 18 sources.
 - Semua sudah cross-link via `## Related` dan terdaftar di `[[index]]`.
 - Goal: zero orphans. Saat ini `python scripts/lint.py` orphan hanya `wiki/inbox/README.md` (staging, expected).
 
@@ -65,7 +68,15 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai]
 - [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]] — Kuli Eps.78: hire AI 1 jam (2026-08-21)
 - [[sources/2026-08-28-malu-di-depan-kamera-870-juta]] — Akademi Marketer: 717jt tanpa branding (2026-04-18)
 - [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] — Giorrando: nasehat bisnis ikan hias (2026-08-24)
-- `raw/sources/2026-04-04-llm-wiki.md`, `raw/sources/2026-08-04-llm-wiki-concept.md`, `raw/sources/2026-08-28-*.md` (10 total today)
+- [[sources/2026-08-28-15-menit-auto-paham-marketing-branding]] — Malaka x Pandji: marketing vs branding (2026-08-24)
+- [[sources/2026-08-28-belajar-hutang-ala-orang-kaya]] — Raymond Chin: hutang leverage (2023-06-08)
+- [[sources/2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses]] — Haloka: klinik branding (2026-08-20)
+- [[sources/2026-08-28-cara-riset-market-belajar-bisnis-online]] — Denny Santoso: riset market (2022-10-27)
+- [[sources/2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia]] — Ferry Irwandi: anomali bursa (2026-06-29)
+- [[sources/2026-08-28-materi-strategi-digital-marketing-harvard]] — Ferry Irwandi: strategi Harvard (2026-03-26)
+- [[sources/2026-08-28-trik-marketing-yang-semua-orang-wajib-tau]] — Raymond Chin: funnel + WA Business (2023-02-01)
+- [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] — Ferry Irwandi: kuliah publik Trisakti (2026-04-21)
+- `raw/sources/2026-04-04-llm-wiki.md`, `raw/sources/2026-08-04-llm-wiki-concept.md`, `raw/sources/2026-08-28-*.md` (18 total, 17 today + 1 Karpathy)
 
 ## Related
 
