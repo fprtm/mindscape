@@ -83,3 +83,12 @@ updated: 2026-08-28
 - Notes: Trigger `ingest lagi` — 1 baru terdeteksi (raw 27 vs wiki 26), incremental, watcher queue dup cleaned.
 
 ---
+
+## [2026-08-28] ingest | ingest lagi — FPRTM Atlas
+
+- Raw: `raw/sources/2026-08-28-fprtmatlas-blueprints.md` (57 lines), `raw/sources/2026-08-28-fprtmatlas-domain-knowledge-kamus-referensi-dunia-nyata-untuk-programmer,-product-builder,-dan-pebisnis.md` (4330 lines, v1.0)
+- Created: `wiki/sources/2026-08-28-fprtm-atlas-blueprints.md`, `wiki/sources/2026-08-28-fprtm-atlas-domain-knowledge.md`, `wiki/concepts/atlas-blueprints.md`, `wiki/concepts/atlas-domain-knowledge.md`
+- Updated: `wiki/index.md` (+2 sources +2 concepts, total ~77 halaman, 29 sources, raw 29 == wiki 29), `wiki/overview.md`
+- Notes: Trigger `ingest lagi` — 2 baru terdeteksi (raw 29 vs wiki 27), watcher queue 18 dup cleaned, incremental.
+
+---

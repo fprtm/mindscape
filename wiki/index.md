@@ -40,6 +40,8 @@ updated: 2026-08-28
 | [[sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial]] | source | Malaka x Sabda PS: engineering thinking identifikasi problem vs persepsi | 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial | 2026-08-28 |
 | [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] | source | Ferry Irwandi: kuliah publik Trisakti — pertumbuhan ekonomi, GDP, inovasi & produktivitas | 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti | 2026-08-28 |
 | [[sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup]] | source | Prof Iwan Pranoto: berpikir vs bernalar, hoaks/deepfake, logika ketat | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[sources/2026-08-28-fprtm-atlas-blueprints]] | source | FPRTM Atlas Blueprints: katalog ide MVP per industri dari domain knowledge | 2026-08-28-fprtm-atlas-blueprints | 2026-08-28 |
+| [[sources/2026-08-28-fprtm-atlas-domain-knowledge]] | source | FPRTM Atlas Domain Knowledge v1.0: kamus role/process/system/data per industri (4330 lines) | 2026-08-28-fprtm-atlas-domain-knowledge | 2026-08-28 |
 | [[sources/2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream]] | source | ChatGPT: roadmap Rp2jt→Rp1M 500×, koreksi realistis cashflow & aset | 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream | 2026-08-28 |
 | [[sources/2026-08-28-aku-membuat-ai-dari-nol]] | source | Fajrul Fx: bikin AI dari nol via neuron→math→coding (Dreamina) | 2026-08-28-aku-membuat-ai-dari-nol | 2026-08-28 |
 | [[sources/2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini]] | source | Creativera Augie & Hansel: bisnis sulit sebelum tau konsep | 2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini | 2026-08-28 |
@@ -72,6 +74,8 @@ updated: 2026-08-28
 | [[concepts/riset-market]] | concept | Riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
 | [[concepts/anomali-bursa]] | concept | Anomali bursa volatil, framework time horizon + disiplin | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
 | [[concepts/berpikir-vs-bernalar]] | concept | Berpikir vs bernalar: struktur, tujuan, logika ketat untuk lawan hoaks | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[concepts/atlas-blueprints]] | concept | Atlas Blueprints: katalog ide MVP per industri dari domain knowledge | 2026-08-28-fprtm-atlas-blueprints | 2026-08-28 |
+| [[concepts/atlas-domain-knowledge]] | concept | Atlas Domain Knowledge v1.0: kamus dunia nyata per industri | 2026-08-28-fprtm-atlas-domain-knowledge | 2026-08-28 |
 | [[concepts/roadmap-modal-ekstrem]] | concept | Roadmap Rp2jt→Rp1M 500× tidak realistis, fokus cashflow & aset | 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream | 2026-08-28 |
 | [[concepts/ai-dari-nol]] | concept | AI dari nol: neuron→math→coding via Fajrul Fx | 2026-08-28-aku-membuat-ai-dari-nol | 2026-08-28 |
 | [[concepts/survival-mode-2026]] | concept | Survival mode 2026: ekonomi tak pasti, 1jt sarjana nganggur | 2026-08-28-survival-mode-2026-cuanomix | 2026-08-28 |
