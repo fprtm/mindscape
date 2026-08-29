@@ -13,7 +13,7 @@ updated: 2026-08-28
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| [[overview]] | overview | Brainpedia thesis + content bible + problem/bisnis cluster (definisi masalah, gadget aset, framework) | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
+| [[overview]] | overview | Brainpedia thesis + content bible + problem/bisnis + PWA | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
 | [[conventions]] | concept | Aturan penulisan Brainpedia: naming, frontmatter, linking, epistemik, search, git | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
 
 ## Sources
@@ -40,6 +40,7 @@ updated: 2026-08-28
 | [[sources/2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial]] | source | Malaka x Sabda PS: engineering thinking identifikasi problem vs persepsi | 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial | 2026-08-28 |
 | [[sources/2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti]] | source | Ferry Irwandi: kuliah publik Trisakti — pertumbuhan ekonomi, GDP, inovasi & produktivitas | 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti | 2026-08-28 |
 | [[sources/2026-08-28-kenapa-berpikir-saja-tidak-cukup]] | source | Prof Iwan Pranoto: berpikir vs bernalar, hoaks/deepfake, logika ketat | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[sources/2026-08-29-guides-pwas]] | source | Vercel Next.js PWA: reach web + UX native, single codebase, instant update | 2026-08-29-guides-pwas | 2026-08-29 |
 | [[sources/2026-08-28-fprtm-atlas-blueprints]] | source | FPRTM Atlas Blueprints: katalog ide MVP per industri dari domain knowledge | 2026-08-28-fprtm-atlas-blueprints | 2026-08-28 |
 | [[sources/2026-08-28-fprtm-atlas-domain-knowledge]] | source | FPRTM Atlas Domain Knowledge v1.0: kamus role/process/system/data per industri (4330 lines) | 2026-08-28-fprtm-atlas-domain-knowledge | 2026-08-28 |
 | [[sources/2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream]] | source | ChatGPT: roadmap Rp2jt→Rp1M 500×, koreksi realistis cashflow & aset | 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream | 2026-08-28 |
@@ -74,6 +75,7 @@ updated: 2026-08-28
 | [[concepts/riset-market]] | concept | Riset market benar untuk pemula | 2026-08-28-cara-riset-market-belajar-bisnis-online | 2026-08-28 |
 | [[concepts/anomali-bursa]] | concept | Anomali bursa volatil, framework time horizon + disiplin | 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia | 2026-08-28 |
 | [[concepts/berpikir-vs-bernalar]] | concept | Berpikir vs bernalar: struktur, tujuan, logika ketat untuk lawan hoaks | 2026-08-28-kenapa-berpikir-saja-tidak-cukup | 2026-08-28 |
+| [[concepts/pwa-nextjs]] | concept | PWA Next.js: reach web + UX native, instant update | 2026-08-29-guides-pwas | 2026-08-29 |
 | [[concepts/atlas-blueprints]] | concept | Atlas Blueprints: katalog ide MVP per industri dari domain knowledge | 2026-08-28-fprtm-atlas-blueprints | 2026-08-28 |
 | [[concepts/atlas-domain-knowledge]] | concept | Atlas Domain Knowledge v1.0: kamus dunia nyata per industri | 2026-08-28-fprtm-atlas-domain-knowledge | 2026-08-28 |
 | [[concepts/roadmap-modal-ekstrem]] | concept | Roadmap Rp2jt→Rp1M 500× tidak realistis, fokus cashflow & aset | 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream | 2026-08-28 |

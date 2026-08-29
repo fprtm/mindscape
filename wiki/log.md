@@ -92,3 +92,12 @@ updated: 2026-08-28
 - Notes: Trigger `ingest lagi` — 2 baru terdeteksi (raw 29 vs wiki 27), watcher queue 18 dup cleaned, incremental.
 
 ---
+
+## [2026-08-29] ingest | ingest — 2026-08-29-guides-pwas
+
+- Raw: `raw/sources/2026-08-29-guides-pwas.md` (446 lines, Vercel Next.js PWA)
+- Created: `wiki/sources/2026-08-29-guides-pwas.md`, `wiki/concepts/pwa-nextjs.md`
+- Updated: `wiki/index.md` (+1 source +1 concept, total ~75 halaman, 30 sources, raw 30 == wiki 30), `wiki/overview.md`
+- Notes: Trigger `ingest` — 1 baru terdeteksi (raw 30 vs wiki 29), incremental, watcher queue dup cleaned.
+
+---
