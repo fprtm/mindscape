@@ -1,6 +1,6 @@
-# Brainpedia — SETUP (agnostic bootstrap)
+# Mindscape — SETUP (agnostic bootstrap)
 
-> Tutorial untuk nge-bootstrap Brainpedia di **laptop baru** atau re-install. Agnostic: work untuk **OpenCode / Claude Code / Codex / Pi** — semua baca `AGENTS.md` yang sama.
+> Tutorial untuk nge-bootstrap Mindscape di **laptop baru** atau re-install. Agnostic: work untuk **OpenCode / Claude Code / Codex / Pi** — semua baca `AGENTS.md` yang sama.
 
 Vault ini (`mindscape`) adalah implementasi **LLM Wiki pattern Karpathy (2026-04-04)** — persistent compounding wiki, bukan RAG re-derive tiap query. Alur `raw/sources → LLM processing → wiki → future queries`.
 
@@ -53,30 +53,30 @@ mkdir -p ~/.claude
 cat >> ~/.claude/CLAUDE.md << 'MD'
 
 ---
-# Brainpedia — Global Pointer (agnostic, mindscape)
-Vault utama: `/home/dsg-ferry/projects/personal/mindscape` (Brainpedia).
-Kalau user bilang ingest/query/lint/brainpedia/mindscape — baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu (bukan di cwd).
+# Mindscape — Global Pointer (agnostic, mindscape)
+Vault utama: `/home/dsg-ferry/projects/personal/mindscape` (Mindscape).
+Kalau user bilang ingest/query/lint/mindscape/mindscape — baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu (bukan di cwd).
 MD
 
 # Codex
 mkdir -p ~/.codex
 cat > ~/.codex/AGENTS.md << 'MD'
-# Brainpedia — Global Pointer (agnostic, mindscape)
+# Mindscape — Global Pointer (agnostic, mindscape)
 Vault utama: `/home/dsg-ferry/projects/personal/mindscape`.
-Jika user menyebut ingest/query/lint/brainpedia/mindscape — baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu.
+Jika user menyebut ingest/query/lint/mindscape/mindscape — baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu.
 MD
 
 # OpenCode
 mkdir -p ~/.config/opencode
 cat > ~/.config/opencode/AGENTS.md << 'MD'
-# Brainpedia — Global Pointer (agnostic, mindscape)
-Vault utama: `/home/dsg-ferry/projects/personal/mindscape` (Brainpedia).
-Instruksi untuk OpenCode: jika user bilang ingest/query/lint/brainpedia/mindscape, baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu.
+# Mindscape — Global Pointer (agnostic, mindscape)
+Vault utama: `/home/dsg-ferry/projects/personal/mindscape` (Mindscape).
+Instruksi untuk OpenCode: jika user bilang ingest/query/lint/mindscape/mindscape, baca `/home/dsg-ferry/projects/personal/mindscape/AGENTS.md` dulu.
 MD
 
 # Pi / generic (walk-up dari ~)
 cat > ~/AGENTS.md << 'MD'
-# Global AGENTS — pointer to Brainpedia
+# Global AGENTS — pointer to Mindscape
 Vault: `/home/dsg-ferry/projects/personal/mindscape`. See that AGENTS.md for ingest/query/lint.
 MD
 ```
@@ -86,7 +86,7 @@ MD
 ```bash
 cat >> ~/.zshrc << 'SH'
 
-# Brainpedia — agnostic shortcuts
+# Mindscape — agnostic shortcuts
 alias brain='cd /home/dsg-ferry/projects/personal/mindscape && opencode'
 alias mindscape='cd /home/dsg-ferry/projects/personal/mindscape'
 alias brain-claude='cd /home/dsg-ferry/projects/personal/mindscape && claude'
@@ -155,7 +155,7 @@ chmod +x .git/hooks/post-commit
 
 ```bash
 cd ~/projects/personal/mindscape
-python scripts/search.py "brainpedia" --top 3
+python scripts/search.py "mindscape" --top 3
 python scripts/lint.py
 python scripts/watch.py --once --dry-run --mode queue
 cat wiki/index.md | head -n 20

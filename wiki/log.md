@@ -24,11 +24,11 @@ updated: 2026-08-28
 - Updated: `wiki/overview.md` (thesis + key ideas), `wiki/index.md` (11 new rows), `wiki/sources/2026-04-04-llm-wiki.md` (already existed)
 - Notes: Batch ingest requested as `ingest overall in raw/sources/*` (first pass). 1 source present, expanded to 9 concepts + 2 entities per AGENTS.md §3.1 (5-15 pages).
 
-## [2026-08-28] ingest | raw/sources/2026-08-04-llm-wiki-concept.md — Brainpedia spec
+## [2026-08-28] ingest | raw/sources/2026-08-04-llm-wiki-concept.md — Mindscape spec
 
-- Raw: `raw/sources/2026-08-04-llm-wiki-concept.md` (Brainpedia task spec, 180 lines)
-- Created: `wiki/sources/2026-08-04-llm-wiki-concept.md`, `wiki/concepts/brainpedia.md`, `wiki/concepts/epistemic-rules.md`, `wiki/conventions.md`, `wiki/analyses/` (folder, alias for syntheses)
-- Updated: `wiki/overview.md` (rename to Brainpedia, thesis + epistemic link), `wiki/index.md` (+3 concepts +1 conventions +1 source), `wiki/sources/2026-04-04-llm-wiki.md` untouched
+- Raw: `raw/sources/2026-08-04-llm-wiki-concept.md` (Mindscape task spec, 180 lines)
+- Created: `wiki/sources/2026-08-04-llm-wiki-concept.md`, `wiki/concepts/mindscape.md`, `wiki/concepts/epistemic-rules.md`, `wiki/conventions.md`, `wiki/analyses/` (folder, alias for syntheses)
+- Updated: `wiki/overview.md` (rename to Mindscape, thesis + epistemic link), `wiki/index.md` (+3 concepts +1 conventions +1 source), `wiki/sources/2026-04-04-llm-wiki.md` untouched
 - Notes: Second source in batch `raw/sources/*`. Diterapkan mapping spec: `schema/` → `AGENTS.md`/`CLAUDE.md` + `conventions.md`, `wiki/analyses/` ditambah tanpa hapus `syntheses/`. Aturan epistemik dipisah jadi halaman tersendiri. Tidak ada destructive operation.
 
 ## [2026-08-28] ingest | raw/sources/2026-08-28-chatgpt-konten-vlog.md — Content Bible Vlog
@@ -36,7 +36,7 @@ updated: 2026-08-28
 - Raw: `raw/sources/2026-08-28-chatgpt-konten-vlog.md` (825 lines, ChatGPT c/6a911da..., via Web Clipper fallback manual)
 - Created: `wiki/sources/2026-08-28-chatgpt-konten-vlog.md`, `wiki/concepts/content-bible.md`, `wiki/concepts/content-pillars.md`, `wiki/concepts/tone-deadpan.md`, `wiki/concepts/formula-konten.md`, `wiki/concepts/struktur-video.md`, `wiki/concepts/visual-random-footage.md`
 - Updated: `wiki/overview.md` (thesis + content cluster 6 halaman, sources), `wiki/index.md` (+1 source +6 concepts, total 22 halaman)
-- Notes: Ingest #3 triggered by `ingest again` after raw/sources/* now has 3 files. Previous watcher confusion (vault name mindscape vs mindspace) resolved. Content cluster jadi domain pertama yang compounding di Brainpedia. Next: lint + git commit.
+- Notes: Ingest #3 triggered by `ingest again` after raw/sources/* now has 3 files. Previous watcher confusion (vault name mindscape vs mindspace) resolved. Content cluster jadi domain pertama yang compounding di Mindscape. Next: lint + git commit.
 
 ## [2026-08-28] ingest | today batch 2026-08-28 — Malaka + Jagat Review + Dig Deeper
 

@@ -21,7 +21,7 @@ Podcast Theo Derick x Dedy Irvan (Jagat Review) — dari 58K transcript — inti
   - **Gadget sebagai aset**: sebelum beli/cicil, pastikan tau fungsi dalam dan pastiin menunjang produktivitas + more income (framework beli: `worth it` hanya kalau nambah income).
   - **Contoh**: Samsung voice recorder → transcript → bedain speaker otomatis; transcript AI bisa tanpa internet (on-device); konten dewa modal HP doang.
   - **Chapters**: Intro, Gadget Sebagai Aset Produktif (01:05), Bahaya Nice to Have (02:50), Impresi HP terbaru, Konten Dewa = Modal HP, Transcript AI offline.
-- **Aplikasi ke Brainpedia**: langsung nyambung ke [[concepts/definisi-masalah]] — tanpa tujuan produktivitas jelas, teknologi jadi nice to have, bukan solusi.
+- **Aplikasi ke Mindscape**: langsung nyambung ke [[concepts/definisi-masalah]] — tanpa tujuan produktivitas jelas, teknologi jadi nice to have, bukan solusi.
 
 ## Sources
 

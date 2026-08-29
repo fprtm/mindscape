@@ -11,7 +11,7 @@ tags: [epistemic, rules, provenance]
 
 ## Summary
 
-Aturan epistemik Brainpedia: jangan campur fakta dari source, inference LLM, spekulasi, dan opini user. Tiap klaim harus nyantol ke source, kontradiksi harus dicatat eksplisit, jangan ngarang biar wiki keliatan lengkap.
+Aturan epistemik Mindscape: jangan campur fakta dari source, inference LLM, spekulasi, dan opini user. Tiap klaim harus nyantol ke source, kontradiksi harus dicatat eksplisit, jangan ngarang biar wiki keliatan lengkap.
 
 ## Details
 
@@ -29,7 +29,7 @@ Implementasi di vault:
 - Saat ingest, LLM harus cek halaman existing dulu sebelum bikin baru — hindari halaman hanya karena keyword muncul
 - Lint harus flag halaman tanpa source/reference jelas
 
-> Ini yang bikin Brainpedia beda dari RAG: RAG cuma retrieve, Brainpedia jaga provenance.
+> Ini yang bikin Mindscape beda dari RAG: RAG cuma retrieve, Mindscape jaga provenance.
 
 ## Sources
 
@@ -38,7 +38,7 @@ Implementasi di vault:
 
 ## Related
 
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]
 - [[concepts/ingest-operation]]
 - [[concepts/lint-operation]]
 - [[conventions]]

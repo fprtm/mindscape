@@ -11,7 +11,7 @@ tags: [conventions, schema]
 
 ## Summary
 
-Aturan penulisan wiki Brainpedia biar konsisten, Obsidian-friendly, dan Graph View bermakna. Ringkasan dari `AGENTS.md` + spec `2026-08-04-llm-wiki-concept`.
+Aturan penulisan wiki Mindscape biar konsisten, Obsidian-friendly, dan Graph View bermakna. Ringkasan dari `AGENTS.md` + spec `2026-08-04-llm-wiki-concept`.
 
 ## Details
 
@@ -73,7 +73,7 @@ aliases: [SRS]
 
 ## Related
 
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]
 - [[concepts/epistemic-rules]]
 - [[concepts/three-layer-architecture]]
 - [[overview]]

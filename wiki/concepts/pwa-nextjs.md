@@ -23,4 +23,4 @@ Dari `[[wiki/sources/2026-08-29-guides-pwas]]` (Vercel, 446 lines).
 
 ## Related
 
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]

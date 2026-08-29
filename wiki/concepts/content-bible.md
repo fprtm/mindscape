@@ -37,4 +37,4 @@ Formula user awal `Relate → Bangun → Belok absurd → Punchline → tamparan
 - [[formula-konten]]
 - [[struktur-video]]
 - [[visual-random-footage]]
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]

@@ -1,17 +1,17 @@
 ---
-title: Overview — Brainpedia
+title: Overview — Mindscape
 type: overview
 status: active
 sources: [2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper, 2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar, 2026-08-28-malu-di-depan-kamera-870-juta, 2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit, 2026-08-28-15-menit-auto-paham-marketing-branding, 2026-08-28-belajar-hutang-ala-orang-kaya, 2026-08-28-branding-lo-jelek-bisnis-lo-susah-sukses, 2026-08-28-cara-riset-market-belajar-bisnis-online, 2026-08-28-cara-saya-memperoleh-keuntungan-besar-di-anomali-bursa-saham-indonesia, 2026-08-28-materi-strategi-digital-marketing-harvard, 2026-08-28-trik-marketing-yang-semua-orang-wajib-tau, 2026-08-28-kuliah-publik-inovasi-produktivitas-trisakti, 2026-08-28-engineering-thinking-untuk-menyelesaikan-masalah-the-trial, 2026-08-28-kenapa-berpikir-saja-tidak-cukup, 2026-08-28-aku-membuat-ai-dari-nol, 2026-08-28-bisnis-itu-sulit-sebelum-tau-konsep-ini, 2026-08-28-cara-bikin-sistem-bisnis-biar-jalan-tanpa-lo, 2026-08-28-how-to-learn-to-code-in-2026, 2026-08-28-survival-mode-2026-cuanomix, 2026-08-28-training-cara-bikin-konten-viral, 2026-08-28-bisnis-dengan-kondisi-dan-modal-ekstream, 2026-08-28-fprtm-atlas-blueprints, 2026-08-28-fprtm-atlas-domain-knowledge, 2026-08-29-guides-pwas]
 updated: 2026-08-28
-tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai, marketing, logika, survival]
+tags: [meta, wiki, mindscape, content, bisnis, problem-solving, ai, marketing, logika, survival]
 ---
 
 # Overview
 
 ## Summary
 
-**Brainpedia** — vault `mindscape` ini adalah persistent compounding wiki berbasis pattern Karpathy. LLM jadi librarian/maintainer, Obsidian jadi IDE. Alur `raw sources → LLM processing → persistent wiki → future queries`, bukan RAG re-derive tiap query. Aturan epistemik [[concepts/epistemic-rules]] dijaga. Domain compounding: **content bible vlog** (Deadpan) + **problem solving & bisnis** (definisi masalah, gadget aset, framework) + **AI & marketing** (hire AI 1 jam, jualan tanpa branding, marketing vs branding, funnel, hutang leverage, riset market).
+**Mindscape** — vault `mindscape` ini adalah persistent compounding wiki berbasis pattern Karpathy. LLM jadi librarian/maintainer, Obsidian jadi IDE. Alur `raw sources → LLM processing → persistent wiki → future queries`, bukan RAG re-derive tiap query. Aturan epistemik [[concepts/epistemic-rules]] dijaga. Domain compounding: **content bible vlog** (Deadpan) + **problem solving & bisnis** (definisi masalah, gadget aset, framework) + **AI & marketing** (hire AI 1 jam, jualan tanpa branding, marketing vs branding, funnel, hutang leverage, riset market).
 
 ## Content
 
@@ -39,7 +39,7 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai, marketing, 
 
 ### Key Ideas to Track
 
-- [[concepts/brainpedia]] — Brainpedia itu sendiri (nama & tujuan vault ini)
+- [[concepts/mindscape]] — Mindscape itu sendiri (nama & tujuan vault ini)
 - [[concepts/persistent-wiki]] — compounding artifact: compile once, keep current
 - [[concepts/rag-vs-wiki]] — perbandingan RAG re-derive vs wiki persistent
 - [[concepts/three-layer-architecture]] — raw / wiki / schema
@@ -65,7 +65,7 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai, marketing, 
 ## Sources
 
 - [[sources/2026-04-04-llm-wiki]] — Karpathy gist `442a6bf555914893e9891c11519de94f` (2026-04-04)
-- [[sources/2026-08-04-llm-wiki-concept]] — Brainpedia spec (2026-08-04)
+- [[sources/2026-08-04-llm-wiki-concept]] — Mindscape spec (2026-08-04)
 - [[sources/2026-08-28-chatgpt-konten-vlog]] — Content bible vlog (ChatGPT 2026-08-28)
 - [[sources/2026-08-28-anatomy-of-a-problem-the-trial-1]] — Malaka Trial: definisi masalah (2026-02-13)
 - [[sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review]] — Jagat Review x Theo (2026-07-23)
@@ -105,7 +105,7 @@ tags: [meta, wiki, brainpedia, content, bisnis, problem-solving, ai, marketing, 
 - [[sources/2026-08-28-dari-nol-belajar-hire-ai-assistant-william-jakfar]]
 - [[sources/2026-08-28-malu-di-depan-kamera-870-juta]]
 - [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]]
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]
 - [[concepts/content-bible]]
 - [[concepts/definisi-masalah]]
 - [[concepts/hire-ai-assistant]]

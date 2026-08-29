@@ -13,15 +13,15 @@ updated: 2026-08-28
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| [[overview]] | overview | Brainpedia thesis + content bible + problem/bisnis + PWA | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
-| [[conventions]] | concept | Aturan penulisan Brainpedia: naming, frontmatter, linking, epistemik, search, git | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[overview]] | overview | Mindscape thesis + content bible + problem/bisnis + PWA | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept, 2026-08-28-chatgpt-konten-vlog, 2026-08-28-anatomy-of-a-problem-the-trial-1, 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review, 2026-08-28-step-by-step-mulai-bisnis-dari-nol-dig-deeper | 2026-08-28 |
+| [[conventions]] | concept | Aturan penulisan Mindscape: naming, frontmatter, linking, epistemik, search, git | 2026-04-04-llm-wiki, 2026-08-04-llm-wiki-concept | 2026-08-28 |
 
 ## Sources
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
 | [[sources/2026-04-04-llm-wiki]] | source | Karpathy LLM Wiki pattern — persistent compounding wiki vs RAG | 2026-04-04-llm-wiki | 2026-08-28 |
-| [[sources/2026-08-04-llm-wiki-concept]] | source | Brainpedia spec — tujuan, 3 lapis, 10-langkah ingest, aturan epistemik | 2026-08-04-llm-wiki-concept | 2026-08-28 |
+| [[sources/2026-08-04-llm-wiki-concept]] | source | Mindscape spec — tujuan, 3 lapis, 10-langkah ingest, aturan epistemik | 2026-08-04-llm-wiki-concept | 2026-08-28 |
 | [[sources/2026-08-28-chatgpt-konten-vlog]] | source | Content bible vlog — Deadpan, 5 pilar, 4 formula, struktur 0-45d + random footage | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 | [[sources/2026-08-28-anatomy-of-a-problem-the-trial-1]] | source | Malaka Trial: definisi masalah = gap tujuan, problem solver harus definisikan dulu | 2026-08-28-anatomy-of-a-problem-the-trial-1 | 2026-08-28 |
 | [[sources/2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review]] | source | Theo x Jagat Review: gadget aset produktif, 30-40% fitur kepake, nice-to-have trap | 2026-08-28-cara-manfaatin-teknologi-biar-10x-lebih-produktif-darinol-jagat-review | 2026-08-28 |
@@ -55,7 +55,7 @@ updated: 2026-08-28
 
 | Page | Type | Summary | Sources | Updated |
 |------|------|---------|---------|---------|
-| [[concepts/brainpedia]] | concept | Brainpedia: nama & tujuan vault ini — raw→LLM→wiki→query, LLM librarian | 2026-08-04-llm-wiki-concept, 2026-04-04-llm-wiki | 2026-08-28 |
+| [[concepts/mindscape]] | concept | Mindscape: nama & tujuan vault ini — raw→LLM→wiki→query, LLM librarian | 2026-08-04-llm-wiki-concept, 2026-04-04-llm-wiki | 2026-08-28 |
 | [[concepts/content-bible]] | concept | Content bible v1.0 — identitas `Cerita kecil tentang keresahan hidup, ditertawakan secukupnya` | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 | [[concepts/content-pillars]] | concept | 5 pilar: dewasa, uang/kerja, pertemanan, diri sendiri, hal receh yang dalam | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |
 | [[concepts/tone-deadpan]] | concept | Tone Deadpan Self-Deprecating — natural, sinis, self-aware, dry humor | 2026-08-28-chatgpt-konten-vlog | 2026-08-28 |

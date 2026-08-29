@@ -1,24 +1,24 @@
 ---
-title: Brainpedia — Personal LLM Wiki Spec (2026-08-04)
+title: Mindscape — Personal LLM Wiki Spec (2026-08-04)
 type: source
 status: active
 sources: [2026-08-04-llm-wiki-concept]
 updated: 2026-08-28
-tags: [brainpedia, spec, llm-wiki, requirements]
-aliases: [brainpedia-spec]
+tags: [mindscape, spec, llm-wiki, requirements]
+aliases: [mindscape-spec]
 ---
 
-# Brainpedia — Personal LLM Wiki Spec (2026-08-04)
+# Mindscape — Personal LLM Wiki Spec (2026-08-04)
 
 ## Summary
 
-Spesifikasi user untuk **Brainpedia**: personal persistent compounding wiki berbasis pattern Karpathy, di mana LLM jadi librarian/maintainer dan Obsidian jadi interface. Menolak RAG sederhana (retrieval mentah tiap query) — minta alur `raw sources → LLM processing → persistent wiki → future queries` dengan 3 lapis, workflow ingest/query/lint yang eksplisit, dan aturan epistemik ketat (jangan campur fakta vs inference).
+Spesifikasi user untuk **Mindscape**: personal persistent compounding wiki berbasis pattern Karpathy, di mana LLM jadi librarian/maintainer dan Obsidian jadi interface. Menolak RAG sederhana (retrieval mentah tiap query) — minta alur `raw sources → LLM processing → persistent wiki → future queries` dengan 3 lapis, workflow ingest/query/lint yang eksplisit, dan aturan epistemik ketat (jangan campur fakta vs inference).
 
 ## Details
 
-### Tujuan — Brainpedia
+### Tujuan — Mindscape
 
-- Nama vault: **Brainpedia**
+- Nama vault: **Mindscape**
 - Sifat: persistent, compounding, dikelola LLM. LLM = librarian/maintainer, Obsidian = reader/explorer.
 - Anti-pattern: RAG sederhana yang tiap jawab hanya retrieval dari dokumen mentah. Mau kompilasi yang terus diperkaya saat sumber baru masuk.
 
@@ -89,7 +89,7 @@ Jangan cuma bikin folder kosong — bangun workflow yang beneran bisa dipakai. I
 
 ## Related
 
-- [[concepts/brainpedia]]
+- [[concepts/mindscape]]
 - [[concepts/epistemic-rules]]
 - [[concepts/ingest-operation]]
 - [[concepts/query-operation]]
