@@ -101,3 +101,12 @@ updated: 2026-08-28
 - Notes: Trigger `ingest` — 1 baru terdeteksi (raw 30 vs wiki 29), incremental, watcher queue dup cleaned.
 
 ---
+
+## [2026-08-29] ingest | ingest — 2026-08-29-what-is-a-modular-monolith
+
+- Raw: `raw/sources/2026-08-29-what-is-a-modular-monolith.md` (101 lines, GeeksforGeeks modular monolith)
+- Created: `wiki/sources/2026-08-29-what-is-a-modular-monolith.md`, `wiki/concepts/modular-monolith.md`
+- Updated: `wiki/index.md` (+1 source +1 concept, total ~76 halaman, 31 sources, raw 31 == wiki 31), `wiki/overview.md`
+- Notes: Trigger `ingest` — 1 baru (raw 31 vs wiki 30), incremental, watcher queue dup cleaned. Sering berhenti karena watcher 19 inbox dup + log --- dobel.
+
+---

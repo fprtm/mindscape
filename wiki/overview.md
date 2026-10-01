@@ -28,6 +28,7 @@ tags: [meta, wiki, mindscape, content, bisnis, problem-solving, ai, marketing, l
 > **Update 2026-08-28 #4 — today batch 3 (ingest lagi)**: 9 sumber baru (Malaka Pandji x2, Raymond Chin x2, Haloka, Denny Santoso, Ferry Irwandi x2, Harvard, Funnel, Trisakti) menambah **marketing cluster** — [[concepts/marketing-vs-branding]], [[concepts/klinik-branding]], [[concepts/strategi-digital-marketing]], [[concepts/marketing-funnel]], [[concepts/hutang-sebagai-leverage]], [[concepts/riset-market]], [[concepts/anomali-bursa]] + Trisakti GDP + engineering thinking. Total wiki ~54 halaman, 19 sources.
 > 
 > **Update 2026-08-28 #5 — ingest again (single)**: 1 sumber baru (Prof Iwan Pranoto, Kelas Pakar) menambah [[concepts/berpikir-vs-bernalar]] — beda berpikir (spontan) vs bernalar (struktur+tujuan+logika ketat) untuk lawan hoaks/deepfake. Total wiki ~55 halaman, 20 sources.
+> **Update 2026-08-29**: 1 sumber baru (GeeksforGeeks) menambah [[concepts/modular-monolith]] — hybrid monolithic + modular. Total wiki ~76 halaman, 31 sources (raw 31 == wiki 31).
 > 
 > **Update 2026-08-28 #6 — ingest batch (6 baru)**: 6 sumber baru (Fajrul Fx, Creativera x2, Tina Huang, Cuanomix, Malaka) menambah [[concepts/ai-dari-nol]] (neuron→coding), [[concepts/sistem-bisnis-tanpa-owner]] (jalan tanpa lo), [[concepts/survival-mode-2026]] (1jt nganggur, tak pasti). Total wiki ~64 halaman, 26 sources (raw 26 == wiki 26 — sinkron, incremental terbukti untuk 100).
 
@@ -54,7 +55,7 @@ tags: [meta, wiki, mindscape, content, bisnis, problem-solving, ai, marketing, l
 - **AI & Marketing cluster (today)**: [[concepts/hire-ai-assistant]] (1 jam hire AI), [[concepts/jualan-tanpa-personal-branding]] (717jt via Meta Ads), nasehat [[sources/2026-08-28-11-tahun-nasehat-bisnis-dalam-45-menit]] (110K subs ≠ bisnis)
 - **Marketing cluster (today batch 3)**: [[concepts/marketing-vs-branding]], [[concepts/klinik-branding]], [[concepts/strategi-digital-marketing]], [[concepts/marketing-funnel]], [[concepts/hutang-sebagai-leverage]], [[concepts/riset-market]], [[concepts/anomali-bursa]]
 - **Logika cluster**: [[concepts/berpikir-vs-bernalar]] (berpikir spontan vs bernalar struktur), [[concepts/definisi-masalah]] + engineering thinking
-- **Survival & AI cluster (batch 6)**: [[concepts/ai-dari-nol]], [[concepts/sistem-bisnis-tanpa-owner]], [[concepts/survival-mode-2026]] (+ training viral, bisnis sulit konsep)
+- **Survival & AI cluster (batch 6) + Modular monolith**: [[concepts/ai-dari-nol]], [[concepts/sistem-bisnis-tanpa-owner]], [[concepts/survival-mode-2026]] (+ training viral, bisnis sulit konsep)
 
 ### Graph Health
 
